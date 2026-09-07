@@ -1,0 +1,4 @@
+[
+  {"prompt": "Write a Python function that reverses a string.", "answer": "def reverse_string(s):\n    return s[::-1]"},
+  {"prompt": "What does the Indonesian word 'terima kasih' mean?", "answer": "'Terima kasih' means 'thank you' in Indonesian."}
+]
