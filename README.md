@@ -1,5 +1,7 @@
 # MeRoTune
 
+![MeRoTune end to end](media/overall_flow.png)
+
 Merging two fine-tunes by averaging their weights implicitly assumes
 both models already agree on how their RoPE (rotary position
 embedding) pairs are oriented. Nothing guarantees that. Two checkpoints
