@@ -69,7 +69,7 @@ python scripts/train.py \
 
 **2. Merge, at whatever alpha you want.** `alpha` is the fraction of
 model B in the blend: `0.0` is pure A, `1.0` is pure B. Produces an
-ordinary HF model directory.
+ordinary HF model directory. [recommended alpha=0.5]
 
 ```bash
 python scripts/merge.py \
